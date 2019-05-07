@@ -1,9 +1,9 @@
 # QGIS tutorial
 Want to get started with QGIS, but have no clue what to do?? You're in the right place! 
 
-Originally created for a QGIS workshop held for students in Amsterdam in December 2019, but the materials are open for everyone to use/copy/improve.  
+Originally created for a QGIS workshop held at Visualizing Knowledge conference in 2019, but the materials are open for everyone to use/copy/improve.  
 
-There are three basic tasks with instructions and sample data in the sample_data folder. They do not contain step by step instructions for each, but will give you the necessary input data and a brief description of steps you need to take to do the tasks.
+There are some basic tasks with instructions and sample data in the sample_data folder. They do not contain step by step instructions for each, but will give you the necessary input data and a brief description of steps you need to take to do the tasks.
 
 ## Download QGIS
 Before you can find QGIS installers for your OS here:  
@@ -46,8 +46,6 @@ http://projectionwizard.org/
 Watch this video if you want to get a better idea about the possibilities of data analysis and visualisation in QGIS:  
 https://www.youtube.com/watch?v=a0cVLzbEOig
 
-For a more advanced user, here's a blog explaining how to do animations using the Time Manager plugin:  
-https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19
 
 ## Ok, but WTF is this GIS thing?
 Mapschool.io  
