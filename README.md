@@ -30,8 +30,6 @@ https://freegisdata.rtwilson.com/
 OpenStreetMap can be downloaded using a QGIS plugin of your choice (e.g. QuickOSM) or for example from GeoFabrik:  
 https://download.geofabrik.de/
 
-Data for Amsterdam can be found here:  
-https://maps.amsterdam.nl/open_geodata/
 
 ## Other useful materials  
 Need to do some geocoding? Check this site also for other useful materials:  
