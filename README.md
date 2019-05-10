@@ -5,6 +5,8 @@ Originally created for a QGIS workshop held at Visualizing Knowledge conference 
 
 There are some basic tasks with instructions and sample data in the sample_data folder. They do not contain step by step instructions for each, but will give you the necessary input data and a brief description of steps you need to take to do the tasks.
 
+Workshop slides can be downloaded [here](https://github.com/GispoCoding/qgis_workshop/raw/master/VK_QGIS_workshop.pdf)
+
 ## Download QGIS
 Before you can find QGIS installers for your OS here:  
 https://qgis.org/en/site/forusers/download.html
